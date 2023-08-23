@@ -443,17 +443,7 @@ button:hover {
   background-repeat: no-repeat;
   background-size: cover;
 }
-/* end section end */
 
-
-@media only screen and (max-width: 600px) {
-}
-@media only screen and (min-width: 600px) {
-}
-@media only screen and (min-width: 768px) {
-}
-@media only screen and (min-width: 992px) {
-}
 @media only screen and (min-width: 1440px) {
   #hero h1 {
     font-size: 50px;
