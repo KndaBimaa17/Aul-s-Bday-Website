@@ -1,6 +1,6 @@
 // HERO SECTION FOR IMG
 const images = [
-  "/assets/img/depan1.png",
+  "assets/img/depan1.png",
   "assets/img/depan2.png",
   "assets/img/depan3.png",
   "assets/img/depan4.png",
